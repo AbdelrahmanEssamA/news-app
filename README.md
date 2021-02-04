@@ -1,3 +1,17 @@
+# News App
+
+Using news API this app dispkay the Latest News and Top headlines with the ability to search for news or get the data for a country or a certain sourcer.\
+This App was built using React Hooks, Context API  and Material UI.\
+
+# Screen Shots
+![Screenshot from 2021-02-04 11-25-22](https://user-images.githubusercontent.com/41570565/106872239-c261ea80-66db-11eb-96a5-de18e6ae3258.png)
+![Screenshot from 2021-02-03 15-04-50](https://user-images.githubusercontent.com/41570565/106872255-c5f57180-66db-11eb-90de-7875b889e780.png)
+![Screenshot from 2021-02-03 15-04-54](https://user-images.githubusercontent.com/41570565/106872267-c8f06200-66db-11eb-9163-1bf62b498603.png)
+![Screenshot from 2021-02-04 11-24-50](https://user-images.githubusercontent.com/41570565/106872287-cd1c7f80-66db-11eb-90d3-22c6f6bd97b0.png)
+![Screenshot from 2021-02-04 11-23-58](https://user-images.githubusercontent.com/41570565/106872294-cee64300-66db-11eb-9124-766253f1f101.png)
+![Screenshot from 2021-02-04 11-27-12](https://user-images.githubusercontent.com/41570565/106872425-f4734c80-66db-11eb-9473-644e6e6a8a00.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
