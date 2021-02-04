@@ -1,6 +1,6 @@
 # News App
 
-Using news API this app dispkay the Latest News and Top headlines with the ability to search for news or get the data for a country or a certain sourcer.\
+Using news API this app display the Latest News and Top headlines with the ability to search for news or get the data for a country or a from a certain sourcer.\
 This App was built using React Hooks, Context API  and Material UI.\
 
 # Screen Shots
